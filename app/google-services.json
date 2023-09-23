@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1056956141683",
+    "firebase_url": "https://quizinia-112f4-default-rtdb.firebaseio.com",
+    "project_id": "quizinia-112f4",
+    "storage_bucket": "quizinia-112f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056956141683:android:d5a8d7a70498a21f525a06",
+        "android_client_info": {
+          "package_name": "com.siddhesh.quizinia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsY_RPFMeAjTZ-xJTPwAg2qktGDYF-eoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056956141683:android:3b70d3c8d66e1743525a06",
+        "android_client_info": {
+          "package_name": "com.siddhesh.quiziniaadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsY_RPFMeAjTZ-xJTPwAg2qktGDYF-eoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

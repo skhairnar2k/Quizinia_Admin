@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.QuiziniaAdmin" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#191970</item>
+        <item name="colorPrimaryVariant">#191970</item>
+        <item name="colorOnPrimary">#ffffff</item>
+
+
+    </style>
+</resources>
